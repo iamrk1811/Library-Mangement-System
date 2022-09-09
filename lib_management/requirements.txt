@@ -6,7 +6,9 @@ charset-normalizer==2.1.1
 coreapi==2.3.3
 coreschema==0.0.4
 decorator==5.1.1
+dj-database-url==1.0.0
 Django==3.2.2
+django-heroku==0.3.1
 django-rest-swagger==2.2.0
 djangorestframework==3.13.1
 drf-yasg==1.21.3
@@ -29,6 +31,7 @@ parso==0.8.3
 pexpect==4.8.0
 pickleshare==0.7.5
 prompt-toolkit==3.0.30
+psycopg2==2.9.3
 ptyprocess==0.7.0
 pure-eval==0.2.2
 Pygments==2.13.0
@@ -47,4 +50,5 @@ traitlets==5.3.0
 uritemplate==4.1.1
 urllib3==1.26.12
 wcwidth==0.2.5
+whitenoise==6.2.0
 zipp==3.8.1
